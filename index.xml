@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://raditian-hugo.radity.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 21:00:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://raditian-hugo.radity.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://raditian-hugo.radity.com/first_post/</link>
+      <pubDate>Tue, 01 Jan 2019 21:00:12 +0800</pubDate>
+      
+      <guid>https://raditian-hugo.radity.com/first_post/</guid>
+      <description>Creative, dynamic and self-driven researcher with expertise in problem identification, extracting data-driven insights and delivering efficient solutions. Keen interest in executing end-to-end machine learning projects to develop cutting edge AI applications. 5+ years of programming experience with strong proficiency in building deep learning models for computer vision and natural language processing.
+I am looking for opportunities in data science. Please feel free to get in touch with me at rajabiswas92@outlook.com or on social media (see the links on the sidebar).</description>
+    </item>
+    
+  </channel>
+</rss>
